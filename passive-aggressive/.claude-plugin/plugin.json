@@ -1,0 +1,12 @@
+{
+  "name": "passive-aggressive",
+  "version": "1.0.0",
+  "description": "Code review with passive-aggressive energy",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "skills": "./skills/"
+}

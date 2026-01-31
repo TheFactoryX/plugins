@@ -1,0 +1,49 @@
+{
+  "name": "thefactoryx",
+  "description": "The Underground Pharmacy - Strange pills for Claude Code",
+  "homepage": "https://github.com/TheFactoryX/plugins",
+  "plugins": [
+    {
+      "name": "noir-mode",
+      "source": "./noir-mode",
+      "description": "Hard-boiled detective narration for debugging",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "haiku-commit",
+      "source": "./haiku-commit",
+      "description": "Commit messages in haiku format (5-7-5)",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "existential-agent",
+      "source": "./existential-agent",
+      "description": "An agent that questions the meaning of code and existence",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "conspiracy-reviewer",
+      "source": "./conspiracy-reviewer",
+      "description": "Code reviewer who sees connections everywhere",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "passive-aggressive",
+      "source": "./passive-aggressive",
+      "description": "Code review with passive-aggressive energy",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "shakespeare-errors",
+      "source": "./shakespeare-errors",
+      "description": "Error messages in Shakespearean English",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    }
+  ]
+}

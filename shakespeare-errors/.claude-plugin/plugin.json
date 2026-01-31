@@ -1,0 +1,12 @@
+{
+  "name": "shakespeare-errors",
+  "version": "1.0.0",
+  "description": "Error messages in Shakespearean English",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "skills": "./skills/"
+}

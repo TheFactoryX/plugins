@@ -1,0 +1,13 @@
+{
+  "name": "conspiracy-reviewer",
+  "version": "1.0.0",
+  "description": "Code reviewer who sees connections everywhere",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "agents": "./agents/",
+  "hooks": "./hooks/hooks.json"
+}

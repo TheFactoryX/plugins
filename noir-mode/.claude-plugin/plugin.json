@@ -1,0 +1,13 @@
+{
+  "name": "noir-mode",
+  "version": "1.0.0",
+  "description": "Hard-boiled detective narration for debugging",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

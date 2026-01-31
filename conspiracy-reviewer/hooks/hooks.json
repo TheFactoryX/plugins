@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Read",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Was this file suspiciously clean or well-organized? If yes, output 'SUSPICIOUS'. Files that are too perfect are hiding something."
+          }
+        ]
+      }
+    ]
+  }
+}
