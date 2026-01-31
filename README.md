@@ -28,6 +28,12 @@ Packaged for distribution.
 | [conspiracy-reviewer](./conspiracy-reviewer/) | Agent + Hook | Nothing is coincidence |
 | [shakespeare-errors](./shakespeare-errors/) | Skill | Forsooth, a bug |
 | [passive-aggressive](./passive-aggressive/) | Skill | "It's fine." |
+| [gordon-ramsay](./gordon-ramsay/) | Skill | "This code is RAW!" |
+| [rubber-duck](./rubber-duck/) | Agent | Only asks questions 🦆 |
+| [anime-debugger](./anime-debugger/) | Skill | ULTIMATE DEBUG ATTACK!!! |
+| [corporate-speak](./corporate-speak/) | Skill | Let's circle back |
+| [code-therapist](./code-therapist/) | Agent | "How does that make you feel?" |
+| [dnd-debugger](./dnd-debugger/) | Skill + Agent | Roll for Investigation |
 
 ---
 

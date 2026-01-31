@@ -1,0 +1,13 @@
+{
+  "name": "dnd-debugger",
+  "version": "1.0.0",
+  "description": "Debugging as a D&D campaign",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "anime-debugger",
+  "version": "1.0.0",
+  "description": "Debugging as shonen anime battle",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "skills": "./skills/"
+}

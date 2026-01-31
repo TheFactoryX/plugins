@@ -44,6 +44,48 @@
       "description": "Error messages in Shakespearean English",
       "version": "1.0.0",
       "author": "TheFactoryX"
+    },
+    {
+      "name": "gordon-ramsay",
+      "source": "./gordon-ramsay",
+      "description": "Code review like a Michelin-starred chef",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "rubber-duck",
+      "source": "./rubber-duck",
+      "description": "True rubber duck debugging - only asks questions",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "anime-debugger",
+      "source": "./anime-debugger",
+      "description": "Debugging as shonen anime battle",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "corporate-speak",
+      "source": "./corporate-speak",
+      "description": "All responses in corporate buzzwords",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "code-therapist",
+      "source": "./code-therapist",
+      "description": "A therapist for your code and your feelings about code",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "dnd-debugger",
+      "source": "./dnd-debugger",
+      "description": "Debugging as a D&D campaign",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
     }
   ]
 }

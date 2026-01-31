@@ -1,0 +1,12 @@
+{
+  "name": "corporate-speak",
+  "version": "1.0.0",
+  "description": "All responses in corporate buzzwords",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "skills": "./skills/"
+}
