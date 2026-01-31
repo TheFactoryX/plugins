@@ -1,0 +1,13 @@
+{
+  "name": "vibe-check",
+  "version": "1.0.0",
+  "description": "Check the vibe of your code and codebase",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "commands": "./commands/",
+  "hooks": "./hooks/hooks.json"
+}

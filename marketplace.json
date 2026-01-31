@@ -86,6 +86,41 @@
       "description": "Debugging as a D&D campaign",
       "version": "1.0.0",
       "author": "TheFactoryX"
+    },
+    {
+      "name": "fortune-cookie",
+      "source": "./fortune-cookie",
+      "description": "Programming fortune cookie on session start",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "friday-guard",
+      "source": "./friday-guard",
+      "description": "Blocks dangerous operations on Fridays",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "excuse-generator",
+      "source": "./excuse-generator",
+      "description": "Generate professional excuses for unfinished work",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "vibe-check",
+      "source": "./vibe-check",
+      "description": "Check the vibe of your code and codebase",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
+    },
+    {
+      "name": "blame-roulette",
+      "source": "./blame-roulette",
+      "description": "Randomly assign blame for bugs and issues",
+      "version": "1.0.0",
+      "author": "TheFactoryX"
     }
   ]
 }

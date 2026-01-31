@@ -1,0 +1,13 @@
+{
+  "name": "blame-roulette",
+  "version": "1.0.0",
+  "description": "Randomly assign blame for bugs and issues",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "commands": "./commands/",
+  "agents": "./agents/"
+}

@@ -34,6 +34,11 @@ Packaged for distribution.
 | [corporate-speak](./corporate-speak/) | Skill | Let's circle back |
 | [code-therapist](./code-therapist/) | Agent | "How does that make you feel?" |
 | [dnd-debugger](./dnd-debugger/) | Skill + Agent | Roll for Investigation |
+| [fortune-cookie](./fortune-cookie/) | Hook | 🥠 Programming wisdom |
+| [friday-guard](./friday-guard/) | Hook | No deploy on Friday |
+| [excuse-generator](./excuse-generator/) | Command | Professional excuses |
+| [vibe-check](./vibe-check/) | Command + Hook | Rate the vibe |
+| [blame-roulette](./blame-roulette/) | Command + Agent | 🎰 Spin the blame wheel |
 
 ---
 
@@ -67,13 +72,16 @@ Or edit `~/.claude/settings.json`:
 pill-name/
 ├── .claude-plugin/
 │   └── plugin.json      # Prescription label
+├── commands/
+│   └── command.md       # User commands
 ├── skills/
 │   └── skill-name/
 │       └── SKILL.md     # Active ingredient
 ├── agents/
 │   └── agent-name.md    # Specialized worker
-└── hooks/
-    └── hooks.json       # Automatic triggers
+├── hooks/
+│   └── hooks.json       # Automatic triggers
+└── .mcp.json            # External tools
 ```
 
 ---

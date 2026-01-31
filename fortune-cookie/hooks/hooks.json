@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '🥠'; shuf -n 1 <<'FORTUNES'\nThere are only two hard things in Computer Science: cache invalidation and naming things.\nIt works on my machine. Ship my machine.\nThe best code is no code at all.\nA clever person solves a problem. A wise person avoids it.\nFirst, solve the problem. Then, write the code.\nCode never lies, comments sometimes do.\nDuplicate code is a missed abstraction.\nAny fool can write code that a computer can understand. Good programmers write code that humans can understand.\nThe function you need is always in the last file you look.\nThere is no ctrl-z in production.\nEvery great developer you know got there by solving problems they were unqualified to solve until they actually did it.\nThe best error message is the one that never shows up.\nSimplicity is prerequisite for reliability.\nPremature optimization is the root of all evil.\nDebugging is twice as hard as writing the code in the first place.\nMake it work, make it right, make it fast.\nThe code you write makes you a programmer. The code you delete makes you a good one.\nIf debugging is the process of removing bugs, then programming must be the process of putting them in.\nYour future self will thank you for writing tests today.\nLegacy code is code without tests.\nFORTUNES"
+          }
+        ]
+      }
+    ]
+  }
+}

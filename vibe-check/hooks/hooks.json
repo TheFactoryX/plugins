@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Read",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "Rate this file's vibe from 1-10 based on: code aesthetics, naming quality, and overall energy. Only output a single number. If it's below 5, add a concerned emoji. If it's above 8, add a sparkle emoji."
+          }
+        ]
+      }
+    ]
+  }
+}

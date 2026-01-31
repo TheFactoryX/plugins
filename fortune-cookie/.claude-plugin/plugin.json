@@ -1,0 +1,12 @@
+{
+  "name": "fortune-cookie",
+  "version": "1.0.0",
+  "description": "Programming fortune cookie on session start",
+  "author": {
+    "name": "TheFactoryX",
+    "email": "hi@sdpkjc.com"
+  },
+  "repository": "https://github.com/TheFactoryX/plugins",
+  "license": "WTFPL",
+  "hooks": "./hooks/hooks.json"
+}
