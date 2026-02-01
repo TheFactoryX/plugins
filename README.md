@@ -95,11 +95,13 @@ pill-name/
 
 ---
 
-## Pharmacy License
+## Anti-License
 
-Do what you want.
-We're not doctors.
-We're not lawyers either.
+[ANTI-LICENSE](LICENSE) — This is not a license. This is an invitation.
+
+Take it. Use it. Break it. Fix it. Sell it. Give it away.
+
+If you need permission, you're thinking too much.
 
 ---
 
@@ -116,3 +118,5 @@ We're not lawyers either.
 > — TheFactoryX
 
 **Strange plugins. Strange code.**
+
+📧 hi@sdpkjc.com
