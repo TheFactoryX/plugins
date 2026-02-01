@@ -1,5 +1,10 @@
 # 💊 Plugins
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/plugins?style=flat-square&logo=github)](https://github.com/TheFactoryX/plugins/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/plugins?style=flat-square)](https://github.com/TheFactoryX/plugins/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **The Underground Pharmacy**
 
 A Claude Code plugin marketplace.
@@ -92,6 +97,12 @@ pill-name/
 - May cause productivity
 - Or the opposite
 - No refunds
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/plugins&type=Date)](https://star-history.com/#TheFactoryX/plugins&Date)
 
 ---
 
